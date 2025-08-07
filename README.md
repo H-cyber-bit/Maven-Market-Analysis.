@@ -43,6 +43,8 @@ This wasn’t drag-drop-done. We built this like a pro.
 
 ---
 
+DASHBOARD IMAGES - [ https://github.com/H-cyber-bit/Maven-Market-Analysis./blob/main/Return%20Analysis.png]
+
  🧠 DAX Measures
 
 Power BI's muscle comes from DAX. These were custom-built for the visuals:
