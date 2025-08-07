@@ -1,4 +1,9 @@
 🛒 Supermarket Sales Analysis | Power BI + DAX
+FULL INTRACTIVE DASHBOARD DOWNLOAD FOR BETTER VIEW REAL TIME CHANGES 
+
+[ https://github.com/H-cyber-bit/Maven-Market-Analysis./blob/main/Market%20Maven%20Analysis.pbit ]
+
+
 
 A deep-dive data project where complex, raw supermarket sales data is transformed into **business-ready insights** using Power BI, DAX, and dimensional modeling. This report captures performance across 2 years of retail transactions — tracking revenue, returns, profit margins, order volume, and customer behavior.
 
