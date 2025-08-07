@@ -42,8 +42,10 @@ This wasn’t drag-drop-done. We built this like a pro.
 - Generated new columns: `Month Name`, `Day Name`, `Year`, `Store Region`
 
 ---
-
-DASHBOARD IMAGES - [ https://github.com/H-cyber-bit/Maven-Market-Analysis./blob/main/Return%20Analysis.png]
+SALES ANALYSIS IMAGE - [https://github.com/H-cyber-bit/Maven-Market-Analysis./blob/main/Sales%20Analysis.png]
+ORDER ANALYSIS IMAGE - [ https://github.com/H-cyber-bit/Maven-Market-Analysis./blob/main/Order%20Analysis.png ]
+RETURN ANALYSIS IMAGE - [ https://github.com/H-cyber-bit/Maven-Market-Analysis./blob/main/Return%20Analysis.png]
+                  
 
  🧠 DAX Measures
 
